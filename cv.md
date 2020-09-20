@@ -27,7 +27,7 @@ Nowadays I'm working in a small SEO company. For its purposes I’m writing a lo
 ## Education
 * **Higher education**
 Belarusian State University, Mechanics and Mathematics faculty.
-(1998-2003)
+*(1998-2003)*
 
 * **Web-development training courses**
 European Humanities University, Minsk, Belarus
@@ -39,11 +39,11 @@ English *(2005-2008)*
 Czech *(2009)*
 
 * **Belhard courses**
-Java EE (2012)
-Programming for iOS (2015)
+Java EE *(2012)*
+Programming for iOS *(2015)*
 
 * **Java internship**
-Java EE, Spring (2019)
+Java EE, Spring *(2019)*
 
 ## English
 Quiz results — English Level Test: **A2+**
