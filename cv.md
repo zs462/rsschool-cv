@@ -18,9 +18,9 @@ Java, Spring, iOS, SVN.
 
 ## Experience
 
-Nowadays I'm working in a small SEO company. For its purposes I’m writing a lot of work-organizing admin panels, server-side scripts.
-**Tools and Technologies:** PHP, MySQL, Yii.
-**Primary Responsibilities:** project architecture, database architecture, core development, optimization, technical consulting 
+Nowadays I'm working in a small SEO company. For its purposes I’m writing a lot of work-organizing admin panels, server-side scripts.  
+**Tools and Technologies:** PHP, MySQL, Yii.  
+**Primary Responsibilities:** project architecture, database architecture, core development, optimization, technical consulting  
 **Key Contributions:** core development of the system
 
 
