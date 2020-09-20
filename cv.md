@@ -3,7 +3,7 @@
 ## Sergey Zaretsky
 
 Mobile: **+375-29-613-10-46**
-Email: **z__s@mail.ru**
+Email: **<z__s@mail.ru>**
 
 I'm a *web developer from 2005, working with PHP*. In order to get more actual knowledges have applied to RSSchool JavaScript course, because for me it's more efficient to learn something with lectures, exercises and specified deadlines.
 
